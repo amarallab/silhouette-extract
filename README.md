@@ -12,6 +12,6 @@ This package is provided as-is. Clone it and adapt it to your needs!
 A python environment is recommended (conda could work as well). In it,
 install the requirements and this package:
 
-    # pip install -r requirements.txt
+    $ pip install -r requirements.txt
     $ pip install https://github.com/amarallab/silhouette-extract
 
