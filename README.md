@@ -13,5 +13,5 @@ A python environment is recommended (conda could work as well). In it,
 install the requirements and this package:
 
     $ pip install -r requirements.txt
-    $ pip install https://github.com/amarallab/silhouette-extract
+    $ pip install git+https://github.com/amarallab/silhouette-extract
 
